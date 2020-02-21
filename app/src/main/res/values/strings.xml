@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RSSReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="feed_error">По указанному адресу нет RSS канала</string>
+    <string name="url_error">Неверно указан адрес</string>
+    <string name="net_error">Проблемы соединения</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="add_channel">Добавить канал</string>
+    <string name="add_channel_text">Введите URL канала</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>
